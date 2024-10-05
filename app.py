@@ -1,6 +1,7 @@
 import streamlit as st
 from crew import crew
 
+
 # Streamlit UI
 st.title('YouTube Latest Videos and Blogs Search')
 
